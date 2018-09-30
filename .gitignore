@@ -1,3 +1,4 @@
 .idea/
 .python-version
-profanity_filter/
+data/
+lazydata.yml
